@@ -30,3 +30,13 @@ docker-compose exec web rails g migration
 ```
 docker-compose up
 ```
+## To run in background 
+### to start
+```
+docker-compose up -d
+```
+### To stop
+
+```
+docker-compose stop
+```
