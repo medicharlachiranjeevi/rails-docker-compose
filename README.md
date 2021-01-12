@@ -28,7 +28,5 @@ docker-compose exec web rails g migration
 ## If u add any gem or add new yarn package run stop docker-compose by CTRL+C and run
 
 ```
-docker-compose down -v
-docker-compose build
 docker-compose up
 ```
