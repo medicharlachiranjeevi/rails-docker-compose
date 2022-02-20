@@ -16,7 +16,7 @@ docker-compose up
 ## To run migrations
 
 ```
-docker-compose exec web rails db:mirate
+docker-compose exec web rails db:migrate
 ```
 
 ## To create any migrations
